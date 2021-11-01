@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-   s.name                     = 'Appcarry'
+   s.name                     = 'AppcarryFramework'
    s.version                  = '1.0.0'
    s.summary                  = 'Appcarry Attribution and Analytics ios SDK'
    s.description              = <<-DESC
@@ -17,4 +17,9 @@ Pod::Spec.new do |s|
    s.ios.deployment_target    = '11.0'
    s.ios.vendored_frameworks  = 'AppcarryFramework.framework'  
    s.ios.frameworks           = 'Security', 'SystemConfiguration'
+
+   s.pod_target_xcconfig = {
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+   }
+   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end
