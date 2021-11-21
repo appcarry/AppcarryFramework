@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
    s.homepage                 = 'https://github.com/appcarry/AppcarryFramework'
    s.author                   = {'Appcarry Team' => 'info@appcarry.com'}
    s.license                  = { :type => 'Proprietary', :text => 'Copyright 2021 Appcarry Private Limited All rights reserved.' }
-   s.source                   = { :git => 'git@github.com:appcarry/AppcarryFramework.git', :tag => s.version.to_s }  
+   s.source                   = { :git => 'https://github.com/appcarry/AppcarryFramework.git', :tag => s.version.to_s }  
    s.requires_arc             = true
    s.platform                 = :ios
 
