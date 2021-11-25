@@ -13,7 +13,6 @@
 #import <AppTrackingTransparency/AppTrackingTransparency.h>
 #import <CoreTelephony/CTCarrier.h>
 #import <CoreTelephony/CTTelephonyNetworkInfo.h>
-#import <AppcarryFramework/PlatformIdentifier.h>
 #import <AppcarryFramework/AppcarryProperties.h>
 #import <AppcarryFramework/ACUserDefaults.h>
 #import "KeychainItemWrapper.h"

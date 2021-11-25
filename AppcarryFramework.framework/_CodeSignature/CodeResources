@@ -10,11 +10,11 @@
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/Pods_AppcarryFramework</key>
 		<data>
-		9uxFPZoqhZFnNc0MCeSfVBji2ts=
+		b/JXBRSmbuzkytzEPYjiWvt+ar4=
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		zEI3U6kIn7qXM7pgAsWTW20kfBY=
+		aqS8hFJ0vu26DiDK4/equPFQUg0=
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		OvTABUWtCYj1LqBsWKAkOpIwBTE=
+		IkbVJdH37EDrxbmjs++y/TNNnJk=
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		2lFKVGMdfLrdpfC+S9NSjr4sXzk=
+		IpDsM0T8X/Ew/r2yAVjllek5CXk=
 		</data>
 		<key>Headers/ACUserDefaults.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/Appcarry.h</key>
 		<data>
-		OpTn/5rfaBzwCX5IZV9ThvXy62Q=
+		BTuonwl6lQ5kenR0fWtH3mhBix8=
 		</data>
 		<key>Headers/AppcarryFramework.h</key>
 		<data>
@@ -55,10 +55,6 @@
 		<key>Headers/KeychainItemWrapper.h</key>
 		<data>
 		lYrmRFJKntwBb8PtENz5I9oRUG8=
-		</data>
-		<key>Headers/PlatformIdentifier.h</key>
-		<data>
-		+W6ldwcPdmiGJy0R889ZXMmVKzw=
 		</data>
 		<key>Headers/Reachability.h</key>
 		<data>
@@ -90,22 +86,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9uxFPZoqhZFnNc0MCeSfVBji2ts=
+			b/JXBRSmbuzkytzEPYjiWvt+ar4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KN4BGBobaF9p7w0ouI0m9ss9CSXLZCgQvBiJ3VXyjR8=
+			BRFMJljVwLW8mmmFPIlsuRHFg7qfIkG8YNFZyRAHzIk=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zEI3U6kIn7qXM7pgAsWTW20kfBY=
+			aqS8hFJ0vu26DiDK4/equPFQUg0=
 			</data>
 			<key>hash2</key>
 			<data>
-			9UfpbGx69Nx+b9ULdxmOjxHs78zgfGSpQrB+n4o98Oo=
+			rBqoctmyfiJLUv7QU5BRGtgFfOpqaXYXdGUJSzZ6A3Y=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements</key>
@@ -123,11 +119,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OvTABUWtCYj1LqBsWKAkOpIwBTE=
+			IkbVJdH37EDrxbmjs++y/TNNnJk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uFAOEOYCfL9QDUDf/TqUnsgNKHF4tam8yw2tH0qZKio=
+			+S9xSWrm3JActBqy5GQesBTvVi65InvpFHCFwTbO7UU=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeResources</key>
@@ -145,11 +141,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2lFKVGMdfLrdpfC+S9NSjr4sXzk=
+			IpDsM0T8X/Ew/r2yAVjllek5CXk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qp943r8m4cyZOdrKbcV4vz5F0h0DZSPNvkAhjYphb+4=
+			wN0VerM2qhk/hUbXDlFf3pHAaWVpcKCN9a5zobcXkOE=
 			</data>
 		</dict>
 		<key>Headers/ACUserDefaults.h</key>
@@ -167,11 +163,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OpTn/5rfaBzwCX5IZV9ThvXy62Q=
+			BTuonwl6lQ5kenR0fWtH3mhBix8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JZFvaITcpHG+OgZL+hZycoR2q+Pxc3Wa453pTDyO2w8=
+			QTlMl8hkzWLfdhpxheufGY4ON1N2OqN3nQCUCLj4h54=
 			</data>
 		</dict>
 		<key>Headers/AppcarryFramework.h</key>
@@ -216,17 +212,6 @@
 			<key>hash2</key>
 			<data>
 			wBGwFZUfYAxCev+/ePKn1GEnCN4hfFu99cdsqIPnWPM=
-			</data>
-		</dict>
-		<key>Headers/PlatformIdentifier.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+W6ldwcPdmiGJy0R889ZXMmVKzw=
-			</data>
-			<key>hash2</key>
-			<data>
-			GDVGw9dcKk8k+DdU5up5QXSZZNFUopxYL37KrskdMF8=
 			</data>
 		</dict>
 		<key>Headers/Reachability.h</key>
