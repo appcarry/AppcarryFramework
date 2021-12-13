@@ -10,11 +10,11 @@
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/Pods_AppcarryFramework</key>
 		<data>
-		b/JXBRSmbuzkytzEPYjiWvt+ar4=
+		gZ1AHYeLUlJCwB4jfNYm/s4beuE=
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		aqS8hFJ0vu26DiDK4/equPFQUg0=
+		102KGxOywmTBWi+eeJrK7gMFTw0=
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		IkbVJdH37EDrxbmjs++y/TNNnJk=
+		3RG232SddxyFcXNsxhQ2jNG0N9Y=
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		IpDsM0T8X/Ew/r2yAVjllek5CXk=
+		XxnCNPX4ct+bcmZ02yKUE47tI4A=
 		</data>
 		<key>Headers/ACUserDefaults.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ilRJ9GD4oUpkomLxRNczYXAIjy4=
+		jpqPBRtQgZC/oCkhMGX7p0lthQM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,10 +73,6 @@
 	<dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sPcnH5aLbSlMBltALnWHsqFiIU8=
-			</data>
 			<key>hash2</key>
 			<data>
 			NREWQrQ6KUAyo0mqk+QjbVTmEDQWG/F0R8xTR4b/mu0=
@@ -84,32 +80,20 @@
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/Pods_AppcarryFramework</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			b/JXBRSmbuzkytzEPYjiWvt+ar4=
-			</data>
 			<key>hash2</key>
 			<data>
-			BRFMJljVwLW8mmmFPIlsuRHFg7qfIkG8YNFZyRAHzIk=
+			TFAN9E0g423EK+ylqsQ/pmieYB9a0vjLSTodNhbt+go=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aqS8hFJ0vu26DiDK4/equPFQUg0=
-			</data>
 			<key>hash2</key>
 			<data>
-			rBqoctmyfiJLUv7QU5BRGtgFfOpqaXYXdGUJSzZ6A3Y=
+			8X2Wng7id1uUPnDzR9YP+5LOQnAVy9411didWuEw/I0=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pgYKRS4Yz7x4QnXSl848KIX/CBo=
-			</data>
 			<key>hash2</key>
 			<data>
 			Vs6LLZBq7xBaEx0zB99B+qdmAvqUEQSCym24A/xq9R0=
@@ -117,21 +101,13 @@
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeRequirements-1</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IkbVJdH37EDrxbmjs++y/TNNnJk=
-			</data>
 			<key>hash2</key>
 			<data>
-			+S9xSWrm3JActBqy5GQesBTvVi65InvpFHCFwTbO7UU=
+			RbgAQs2bydQMqQvnB8VTNZn+he827aP+OH+rcsxnghI=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hAXnCDfRcxxM9hDEI9QxfHVjz4Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			+7/1p0E2YSzX1b0ysyhN0s28CDCMjXrD8IXxj8KEDbY=
@@ -139,21 +115,13 @@
 		</dict>
 		<key>Frameworks/Pods_AppcarryFramework.framework/_CodeSignature/CodeSignature</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IpDsM0T8X/Ew/r2yAVjllek5CXk=
-			</data>
 			<key>hash2</key>
 			<data>
-			wN0VerM2qhk/hUbXDlFf3pHAaWVpcKCN9a5zobcXkOE=
+			AmyJELsdpLqSKDoM++muduOJvkIUkuJX95xfD6EAT8Y=
 			</data>
 		</dict>
 		<key>Headers/ACUserDefaults.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NeCPXk7VyRCLNz8DXrDJVMG42yg=
-			</data>
 			<key>hash2</key>
 			<data>
 			8lMFDkjf8GX1PSjYoxzSVJr0V7Oe4MVx3aWfTBQtmHc=
@@ -161,10 +129,6 @@
 		</dict>
 		<key>Headers/Appcarry.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BTuonwl6lQ5kenR0fWtH3mhBix8=
-			</data>
 			<key>hash2</key>
 			<data>
 			QTlMl8hkzWLfdhpxheufGY4ON1N2OqN3nQCUCLj4h54=
@@ -172,10 +136,6 @@
 		</dict>
 		<key>Headers/AppcarryFramework.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xHuu1bHH6/3xcjf+WmEzcuBBzoo=
-			</data>
 			<key>hash2</key>
 			<data>
 			CuB1cpqGmofN2mevkABCBdKMjpb87PyBR6N9HsFSLMo=
@@ -183,10 +143,6 @@
 		</dict>
 		<key>Headers/AppcarryLogger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UjUwVTKSCGo4+B5Yh+HiQIyXQ3s=
-			</data>
 			<key>hash2</key>
 			<data>
 			MzYoW/2GNVbNS7eSfvqt15fXW/5Hylk+2X4gGi+nrUc=
@@ -194,10 +150,6 @@
 		</dict>
 		<key>Headers/AppcarryProperties.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PIbnZFexl6oWD0WWpp5AsyGDQXM=
-			</data>
 			<key>hash2</key>
 			<data>
 			HTb/P0lqGHzo8XSYwFtrUzRsVamqEF9YaEDdU4TKgpQ=
@@ -205,10 +157,6 @@
 		</dict>
 		<key>Headers/KeychainItemWrapper.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lYrmRFJKntwBb8PtENz5I9oRUG8=
-			</data>
 			<key>hash2</key>
 			<data>
 			wBGwFZUfYAxCev+/ePKn1GEnCN4hfFu99cdsqIPnWPM=
@@ -216,10 +164,6 @@
 		</dict>
 		<key>Headers/Reachability.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lduXFOUBU18Jv5RHQA4LSjWCJ48=
-			</data>
 			<key>hash2</key>
 			<data>
 			txHdcb8Sc5uzGbFySd2+EAHqSC2rUW9nf/foSuPQOmY=
@@ -227,10 +171,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5VGIUmxweRw8rq7ZK7VTDpgnBMY=
-			</data>
 			<key>hash2</key>
 			<data>
 			FQCQeT6FPIB2YWryU+2frTfOVTAtiqWqkx81Xt3QVQA=
