@@ -6,24 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <AppcarryFramework/AppcarryLogger.h>
-#import <UIKit/UIKit.h>
-#import <AdSupport/AdSupport.h>
-#import <CoreLocation/CoreLocation.h>
-#import <AppTrackingTransparency/AppTrackingTransparency.h>
-#import <CoreTelephony/CTCarrier.h>
-#import <CoreTelephony/CTTelephonyNetworkInfo.h>
-#import <AppcarryFramework/AppcarryProperties.h>
-#import <AppcarryFramework/ACUserDefaults.h>
-#import "KeychainItemWrapper.h"
-#import <BackgroundTasks/BackgroundTasks.h>
-#import "Reachability.h"
-#import <sys/utsname.h>
-
 
 @import FirebaseMessaging;
-
-
 
 NS_ASSUME_NONNULL_BEGIN
 
