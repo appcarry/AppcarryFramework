@@ -10,7 +10,11 @@
 		</data>
 		<key>Headers/Appcarry.h</key>
 		<data>
-		oDzVH53s5uh3zU4+04p+dZEYUAA=
+		Wj2lO2X/UvnGXLbQWo5IAE5ze9U=
+		</data>
+		<key>Headers/AppcarryEvents.h</key>
+		<data>
+		r+IwILU0bgnlPgrXo9kgoNzlg5A=
 		</data>
 		<key>Headers/AppcarryFramework.h</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZQ0i7yEHwczA/XULQsg2X91a7gI=
+		GokvaYdllIQJuuaKDaDuo1vDLN4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +58,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ESRvSixppHgsRq70URENpGW7zEEerkuSo429viWD7mk=
+			x9f8frOPOA+MjS5K5hpf317cxLWn5Vl5D62p8iY6igQ=
+			</data>
+		</dict>
+		<key>Headers/AppcarryEvents.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rp6qJqfjK3E4qoZQDbYGL8zg93oSQOnn/u/tHO3s938=
 			</data>
 		</dict>
 		<key>Headers/AppcarryFramework.h</key>

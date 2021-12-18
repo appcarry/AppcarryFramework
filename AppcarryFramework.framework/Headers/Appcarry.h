@@ -44,6 +44,7 @@ typedef enum  {
 
 //Properties
 @property(nonatomic, strong) NSString * appcarryDevKey;
+@property(nonatomic, strong) NSString * platform_extension;
 @property(nonatomic, strong) NSString * attributionID;
 @property(nonatomic, strong) NSString * appleAppID;
 @property(nonatomic, strong) NSString * webHookUrl;
