@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
    s.name                     = 'AppcarryFramework'
-   s.version                  = '1.1.4'
+   s.version                  = '1.1.5'
    s.summary                  = 'Appcarry Attribution and Analytics ios SDK'
    s.description              = <<-DESC
    Appcarry native track allows you to find what attracts new users to your app,
