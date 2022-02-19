@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/ACRootDetect.h</key>
+		<data>
+		8WBB8dMIUmkhYRMZO5IzZjGFL/g=
+		</data>
 		<key>Headers/ACUserDefaults.h</key>
 		<data>
 		NeCPXk7VyRCLNz8DXrDJVMG42yg=
@@ -38,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		066BTNvsDbv/baP8nsHYGu7INMY=
+		S+//MeZ3gmqIaj9H4JjY3eMZcRM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,6 +51,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/ACRootDetect.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qM2ZELhRUa7ge1XkWogIgAW3ttkgRNWzfAfYhb5SvOg=
+			</data>
+		</dict>
 		<key>Headers/ACUserDefaults.h</key>
 		<dict>
 			<key>hash2</key>

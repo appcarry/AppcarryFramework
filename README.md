@@ -33,7 +33,7 @@
 > Add the [latest version of AppcarryFramework](https://github.com/appcarry/AppcarryFramework/releases) to your project's Podfile:
 
 ```objectivec
-pod 'AppcarryFramework', '1.1.3'
+pod 'AppcarryFramework', '1.1.4'
 pod 'Firebase/Messaging'
 ```
 
